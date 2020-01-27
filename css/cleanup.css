@@ -3,27 +3,27 @@
     display: none;
 }
 
-#wall div#tag-2 {
+#wall #tag-2 {
     display:none;    
 }
 
-div#wall div#tag-3.slick {
+#wall #tag-3.slick {
     display:none;
 }
 
-div#wall div.parent #tag-4 {
+#wall .parent #tag-4 {
     display:none;
 }
 
 
-html[lang="en"] div#wall div.parent #tag-5.slick {
+html[lang="en"] #wall .parent #tag-5.slick {
     display:none;
 }
 
-html[lang="en"] body div#wall div.parent div#tag-6 {
+html[lang="en"] body #wall .parent #tag-6 {
     display:none;
 }
 
-html[lang="en"] body div#wall div.parent div#tag-7.slick {
+html[lang="en"] body #wall .parent #tag-7.slick {
     display:none;
 }
