@@ -16,6 +16,14 @@ div#wall div.parent #tag-4 {
 }
 
 
-div#wall div.parent #tag-5.slick {
+html[lang="en"] div#wall div.parent #tag-5.slick {
+    display:none;
+}
+
+html[lang="en"] body div#wall div.parent div#tag-6 {
+    display:none;
+}
+
+html[lang="en"] body div#wall div.parent div#tag-7.slick {
     display:none;
 }
